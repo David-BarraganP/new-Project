@@ -9,7 +9,7 @@ const QrPage = () => {
     <div style={{ textAlign: "center", marginTop: "100px" }}>
       <h2>Escanea el QR </h2>
       <QRCodeCanvas
-        value="http://localhost:3000"
+        value="https://new-project-bice-two.vercel.app/"
         size={200}
         fgColor="#000000"
       />
